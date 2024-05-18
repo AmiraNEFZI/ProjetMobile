@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<transitionManager xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    <transition xmlns:android="http://schemas.android.com/apk/res/android">
+        <targets>
+            <target android:targetId="@id/textView1"/>
+            <target android:targetId="@id/textView2"/>
+        </targets>
+    </transition>
+    -->
+    <!--
+    <transition
+        android:fromScene="@layout/activity_splashactivity"
+        android:toScene="@layout/activity_splashactivity">
+        <targets>
+            <target
+                android:targetId="@id/iv_top"
+                android:excludeChildren="true"
+                android:excludeId="@+id/iv_top" />
+        </targets>
+        <fade />
+        <scale
+            android:duration="1000"
+            android:fromXScale="0.0"
+            android:fromYScale="0.0"
+            android:toXScale="1.0"
+            android:toYScale="1.0"
+            android:pivotX="50%"
+            android:pivotY="50%" />
+    </transition>
+    -->
+</transitionManager>

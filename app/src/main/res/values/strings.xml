@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My memoryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="please_login_with_your_information">Please login with your information</string>
+    <string name="email_address">email_address</string>
+    <string name="welcome">WELCOME</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_yor_name">Enter yor name</string>
+    <string name="register">register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="user_name">User_Name</string>
+    <string name="please_enter_your_information">Please enter your information</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="register_now">REGISTER NOW!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="your_mail">Your Mail</string>
+    <string name="your_name">Your Name</string>
+    <string name="welcome_to_your_memoryapp">Welcome To your MemoryApp</string>
+</resources>
